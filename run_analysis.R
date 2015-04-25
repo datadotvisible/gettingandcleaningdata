@@ -7,8 +7,8 @@
 
 # Note assumes that your working directory contains the data in test and train directories.
 
-library("data.table")
-library("reshape2")
+require("data.table")
+require("reshape2")
 
 # Grab labels and features
 
